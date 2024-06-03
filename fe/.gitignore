@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled files
+dist/
+build/
+
+# Environment files
+.env
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
